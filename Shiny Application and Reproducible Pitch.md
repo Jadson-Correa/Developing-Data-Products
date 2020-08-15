@@ -65,3 +65,4 @@ The ui.R and server.R are the code for the shiny application:
 - Shiny: [https://jadson-correa.shinyapps.io/data_products/](https://jadson-correa.shinyapps.io/data_products/)
 - Github: [https://github.com/Jadson-Correa/Developing-Data-Products](https://github.com/Jadson-Correa/Developing-Data-Products)
 - RPubs: [https://rpubs.com/Jadson-Correa/649259](https://rpubs.com/Jadson-Correa/649259)
+- Presentation: [https://rpubs.com/Jadson-Correa/649346](https://rpubs.com/Jadson-Correa/649346)
